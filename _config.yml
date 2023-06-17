@@ -2,13 +2,13 @@
 
 menu:
   主页: /
-  Java: /tags/Java/
-  算法: /tags/算法/
-  随笔: /tags/随笔/
+  # Java: /tags/Java/
+  # 算法: /tags/算法/
+  # 随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: https://juniousy.github.io/
+  github: https://github.com/JuniousY
   #weibo: "#"
   #rss: "#"
   #zhihu: "#"
